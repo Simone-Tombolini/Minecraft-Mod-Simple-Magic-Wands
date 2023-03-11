@@ -1,0 +1,23 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "CUSTOM:NatureForceWand"
+    },
+    "smithingInputAdditionStack": {
+      "value": "Items.AMETHYST_SHARD"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:Wand"
+    },
+    "name": "grass_reverse_recipe",
+    "namespace": "mod"
+  }
+}

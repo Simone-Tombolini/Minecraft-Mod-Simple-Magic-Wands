@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="simple_magic_wands"
+version="1.0.0"
+displayName="Simple magic wands"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="Simo_Tombo, MCreator"
+description='''
+This modd add simple magic wands.
+'''
+
+[[dependencies.simple_magic_wands]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

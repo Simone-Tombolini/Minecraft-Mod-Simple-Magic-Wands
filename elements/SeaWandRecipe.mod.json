@@ -1,0 +1,23 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "CUSTOM:Wand"
+    },
+    "smithingInputAdditionStack": {
+      "value": "Items.POTIONITEM"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:ForceOfSeaWand"
+    },
+    "name": "sea_wand_recipe",
+    "namespace": "mod"
+  }
+}

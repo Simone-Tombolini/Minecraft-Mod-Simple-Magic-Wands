@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "simple_magic_wands:blocks/emptytexture",
+    "up": "simple_magic_wands:blocks/emptytexture",
+    "north": "simple_magic_wands:blocks/emptytexture",
+    "east": "simple_magic_wands:blocks/emptytexture",
+    "south": "simple_magic_wands:blocks/emptytexture",
+    "west": "simple_magic_wands:blocks/emptytexture",
+    "particle": "simple_magic_wands:blocks/emptytexture"
+  },
+  "render_type": "translucent"
+}

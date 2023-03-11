@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "simple_magic_wands:items/lightblockinventory"
+  },
+  "render_type": "translucent"
+}

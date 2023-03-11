@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "simple_magic_wands:wand"
+  },
+  "addition": {
+    "item": "minecraft:end_crystal"
+  },
+  "result": {
+    "item": "simple_magic_wands:dragon_breath_wand"
+  }
+}

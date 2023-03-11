@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "simple_magic_wands:wand"
+  },
+  "addition": {
+    "item": "minecraft:gunpowder"
+  },
+  "result": {
+    "item": "simple_magic_wands:exploding_wand"
+  }
+}

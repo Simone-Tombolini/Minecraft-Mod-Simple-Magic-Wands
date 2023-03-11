@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "simple_magic_wands:wand"
+  },
+  "addition": {
+    "item": "minecraft:wheat_seeds"
+  },
+  "result": {
+    "item": "simple_magic_wands:nature_force_wand"
+  }
+}

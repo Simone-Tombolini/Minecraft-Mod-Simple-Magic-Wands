@@ -1,0 +1,12 @@
+{
+  "item.simple_magic_wands.nature_force_wand": "Nature Force Wand",
+  "item.simple_magic_wands.wind_force_wand": "Wind Force Wand",
+  "item.simple_magic_wands.wand": "Wand",
+  "item.simple_magic_wands.fire_breath_wand": "Fire Breath Wand",
+  "item.simple_magic_wands.ligth_wand": "Ligth Force Wand",
+  "item.simple_magic_wands.force_of_sea_wand": "Sea Force Wand",
+  "item.simple_magic_wands.dragon_breath_wand": "Dragon Breath Wand",
+  "itemGroup.tabwands": "Wands",
+  "block.simple_magic_wands.ligth_wisp_block": "Ligth Wisp Block",
+  "item.simple_magic_wands.exploding_wand": "Explosive Wand"
+}

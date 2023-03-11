@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "simple_magic_wands:wand"
+  },
+  "addition": {
+    "item": "minecraft:potion"
+  },
+  "result": {
+    "item": "simple_magic_wands:force_of_sea_wand"
+  }
+}
