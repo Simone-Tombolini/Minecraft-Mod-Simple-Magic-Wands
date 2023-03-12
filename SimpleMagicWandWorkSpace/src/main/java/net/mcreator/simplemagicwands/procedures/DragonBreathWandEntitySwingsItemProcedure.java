@@ -32,6 +32,7 @@ public class DragonBreathWandEntitySwingsItemProcedure {
 		}
 		
 
-	
+		entity.hurt(DamageSource.MAGIC, 4);
+
 	}
 }

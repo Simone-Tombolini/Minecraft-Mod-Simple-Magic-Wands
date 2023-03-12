@@ -32,6 +32,9 @@
     "onRightClickedInAir": {
       "name": "LigthWandRightclickedOnBlock"
     },
+    "onEntityHitWith": {
+      "name": "LigthWandLivingEntityIsHitWithItem"
+    },
     "isFood": false,
     "nutritionalValue": 4,
     "saturation": 0.3,

@@ -25,7 +25,7 @@ public class ExplodingWandItem extends Item {
 		double y = entity.getY();
 		double z = entity.getZ();
 
-		ExplodingWandEntitySwingsItemProcedure.execute(world, x, y, z);
+		ExplodingWandEntitySwingsItemProcedure.execute(world, x, y, z, entity);
 		return ar;
 	}
 }
